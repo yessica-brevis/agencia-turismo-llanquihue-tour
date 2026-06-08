@@ -24,7 +24,7 @@ La solución aplica principios de Programación Orientada a Objetos, incluyendo 
 ├── app/                        # Paquete principal con el método main.
 │ └── Main.java                 # Clase principal que ejecuta el programa.
 ├── model/                      # Paquete de dominio.
-│ ├── Persona.java              # Clase padre que almacena información básica de una persona.
+│ ├── Persona.java              # Clase padre que almacena información básica de un empleado.
 │ ├── Empleado.java             # Clase que Hereda de Persona e incorpora información laboral.
 │ ├── Rut.java                  # Clase que Representa y valida el RUT de una persona.
 │ └── Direccion.java            # Clase que Representa la dirección asociada a una persona.

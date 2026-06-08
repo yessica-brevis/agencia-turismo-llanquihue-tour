@@ -21,15 +21,15 @@ La solución aplica principios de Programación Orientada a Objetos, incluyendo 
 
 ```plaintext
 📁 src/                 
-├── app/                        # Clase principal con el método main.
+├── app/                        # Paquete principal con el método main.
 │ └── Main.java                 # Clase principal que ejecuta el programa.
-├── model/                      # Clases de dominio.
+├── model/                      # Paquete de dominio.
 │ ├── Persona.java              # Clase padre que almacena información básica de una persona.
-│ ├── Empleado.java             # Hereda de Persona e incorpora información laboral.
-│ ├── Rut.java                  # Representa y valida el RUT de una persona.
-│ └── Direccion.java            # Representa la dirección asociada a una persona.
-├── util/                       # Utilidades y validaciones.
-└── RutInvalidoException.java   # Excepción personalizada utilizada para validar el formato del RUT.
+│ ├── Empleado.java             # Clase que Hereda de Persona e incorpora información laboral.
+│ ├── Rut.java                  # Clase que Representa y valida el RUT de una persona.
+│ └── Direccion.java            # Clase que Representa la dirección asociada a una persona.
+├── util/                       # Paquete de Utilidades y validaciones.
+└── RutInvalidoException.java   # Clase de Excepción personalizada utilizada para validar el formato del RUT.
 ````
 
 

@@ -1,18 +1,23 @@
-Evaluación Desarrollo Orientado a Objetos I Semana 3
-👤 Autor del proyecto
+# 🧠 Evaluación Desarrollo Orientado a Objetos I Semana 3
 
-Nombre completo: Yessica Ximena Brevis Garnica
-Sección: 008A
-Carrera: Analista Programador computacional
-Sede: Online
+# 👤 Autor del proyecto
 
-📘 Descripción general del sistema
+- **Nombre completo:** Yessica Ximena Brevis Garnica
+- **Sección:** 008A
+**Carrera:** Analista Programador computacional
+- **Sede:** Online
+
+---
+
+## 📘 Descripción general del sistema
 
 Este proyecto corresponde a la Evaluación de la semana 3 de la asignatura Desarrollo Orientado a Objetos I. Consiste en un sistema desarrollado en Java para modelar la información de las personas vinculadas a la agencia de turismo Llanquihue Tour.
 
 La solución aplica principios de Programación Orientada a Objetos, incluyendo encapsulamiento, herencia, composición y manejo de excepciones, permitiendo representar y validar de forma estructurada la información de personas y empleados.
 
-🧱 Estructura general del proyecto
+---
+
+## 🧱 Estructura general del proyecto
 
 📁 src/                 
 ├── app/                        # Clase principal con el método main.
@@ -25,17 +30,25 @@ La solución aplica principios de Programación Orientada a Objetos, incluyendo 
 └── util/                       # Utilidades y validaciones.
 └── RutInvalidoException.java   # Excepción personalizada utilizada para validar el formato del RUT.
 
+---
 
-⚙️ Instrucciones para compilar y ejecutar
-Clonar o descargar el repositorio.
-Abrir el proyecto en NetBeans.
-Compilar el proyecto.
-Ejecutar la clase Main ubicada en el paquete app.
-Revisar la salida en la consola.
+## ⚙️ Instrucciones para compilar y ejecutar
 
-🔗 Repositorio GitHub
-https://github.com/yessica-brevis/agencia-turismo-llanquihue-tour
+1.- Clonar o descargar el repositorio.
 
-📅 Fecha de entrega
+```bash
+git clone https://github.com/yessica-brevis/agencia-turismo-llanquihue-tour.git
+```
+2. Abrir el proyecto en NetBeans.
+   
+3. Compilar el proyecto.
 
-[08/06/2026]
+4. Ejecutar la clase `Main.java` ubicada en el paquete `app`.
+
+5. Revisar la salida del programa en la consola.
+
+**Repositorio GitHub:** https://github.com/yessica-brevis/agencia-turismo-llanquihue-tour
+
+**Fecha de entrega:** \[08/06/2026]
+
+---

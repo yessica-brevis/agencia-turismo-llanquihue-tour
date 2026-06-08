@@ -32,9 +32,9 @@ Abrir el proyecto en NetBeans.
 Compilar el proyecto.
 Ejecutar la clase Main ubicada en el paquete app.
 Revisar la salida en la consola.
-🔗 Repositorio GitHub
 
-[Pegar aquí la URL de tu repositorio]
+🔗 Repositorio GitHub
+https://github.com/yessica-brevis/agencia-turismo-llanquihue-tour
 
 📅 Fecha de entrega
 

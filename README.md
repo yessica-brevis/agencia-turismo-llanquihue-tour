@@ -1,10 +1,10 @@
 # 🧠 Evaluación Desarrollo Orientado a Objetos I Semana 3
 
-# 👤 Autor del proyecto
+## 👤 Autor del proyecto
 
 - **Nombre completo:** Yessica Ximena Brevis Garnica
 - **Sección:** 008A
-**Carrera:** Analista Programador computacional
+- **Carrera:** Analista Programador computacional
 - **Sede:** Online
 
 ---

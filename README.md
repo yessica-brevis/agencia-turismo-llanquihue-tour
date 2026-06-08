@@ -28,7 +28,7 @@ La solución aplica principios de Programación Orientada a Objetos, incluyendo 
 │ ├── Empleado.java             # Hereda de Persona e incorpora información laboral.
 │ ├── Rut.java                  # Representa y valida el RUT de una persona.
 │ └── Direccion.java            # Representa la dirección asociada a una persona.
-└── util/                       # Utilidades y validaciones.
+├── util/                       # Utilidades y validaciones.
 └── RutInvalidoException.java   # Excepción personalizada utilizada para validar el formato del RUT.
 ````
 

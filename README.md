@@ -19,6 +19,7 @@ La solución aplica principios de Programación Orientada a Objetos, incluyendo 
 
 ## 🧱 Estructura general del proyecto
 
+```plaintext
 📁 src/                 
 ├── app/                        # Clase principal con el método main.
 │ └── Main.java                 # Clase principal que ejecuta el programa.
@@ -29,6 +30,8 @@ La solución aplica principios de Programación Orientada a Objetos, incluyendo 
 │ └── Direccion.java            # Representa la dirección asociada a una persona.
 └── util/                       # Utilidades y validaciones.
 └── RutInvalidoException.java   # Excepción personalizada utilizada para validar el formato del RUT.
+````
+
 
 ---
 
